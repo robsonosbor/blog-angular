@@ -106,6 +106,6 @@ Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) par
 
 ## ✉️ Contato
 
-Robson Osbor - [Seu LinkedIn](https://www.linkedin.com/in/robsonbatista1975/)
+Robson Batista - [LinkedIn](https://www.linkedin.com/in/robsonbatista1975/)
 
 [Página pessoal](https://robsonosbor.github.io/robsonosbor/)
