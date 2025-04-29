@@ -1,11 +1,13 @@
 # Blog Estático Desenvolvido com Angular
 
 [![Licença MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Última Commmit](https://img.shields.io/github/last-commit/robsonosbor/blog-angular/main)](https://github.com/robsonosbor/blog-angular/commits/main)
-[![Linguagem](https://img.shields.io/github/languages/top/robsonosbor/blog-angular)](https://github.com/robsonosbor/blog-angular/search?l=typescript)
+[![Angular v19](https://img.shields.io/badge/Angular-19-DD0031?logo=angular)](https://angular.io/guide/update-to-version-19)
+[![Node.js](https://img.shields.io/badge/Node.js-20+-339933?logo=node.js)](https://nodejs.org/)
+[![Último Commit](https://img.shields.io/github/last-commit/robsonosbor/blog-angular/main)](https://github.com/robsonosbor/blog-angular/commits/main)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.4+-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Tamanho do Repositório](https://img.shields.io/github/repo-size/robsonosbor/blog-angular)](https://github.com/robsonosbor/blog-angular)
-[![Issues Abertas](https://img.shields.io/github/issues/robsonosbor/blog-angular)](https://github.com/robsonosbor/blog-angular/issues)
-[![Pull Requests Abertos](https://img.shields.io/github/pulls/robsonosbor/blog-angular)](https://github.com/robsonosbor/blog-angular/pulls)
+[![Status das Issues](https://img.shields.io/github/issues-raw/robsonosbor/blog-angular)](https://github.com/robsonosbor/blog-angular/issues)
+[![CI Status](https://img.shields.io/github/actions/workflow/status/robsonosbor/blog-angular/main.yml?label=CI)](https://github.com/robsonosbor/blog-angular/actions)
 
 > Um blog estático (with json mocked data) moderno e responsivo construído com o poderoso framework Angular. Este projeto demonstra minhas habilidades em desenvolvimento front-end, design responsivo e integração de conteúdo dinâmico.
 
